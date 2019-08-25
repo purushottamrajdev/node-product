@@ -1,0 +1,4 @@
+{
+    "jwtPrivateKey":"",
+    "db":"mongodb+srv://root:root@organicstore-m3qma.mongodb.net/dbProduct?retryWrites=true&w=majority"
+}
